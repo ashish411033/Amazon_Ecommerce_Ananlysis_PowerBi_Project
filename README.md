@@ -21,7 +21,7 @@ Using Power BI, these columns are analyzed and visualized through dynamic charts
 - ✅ Product-level sales performance overview  
 - ✅ Trend analysis by **Order Date**  
 - ✅ Review volume insights to gauge customer engagement  
-- ✅ Shipment distribution by location  
+- ✅ Sales analysis by year/month/week
 - ✅ Filtering by product category and time period  
 - ✅ Clean, interactive dashboard design using Power BI visuals
 
@@ -36,3 +36,9 @@ Using Power BI, these columns are analyzed and visualized through dynamic charts
 ## 🛠 Tools Used
 - **Microsoft Power BI**  
 - **Excel (for data storage and cleaning)**
+
+![Amazon Dashboard Screenshot](https://github.com/ashish411033/Amazon_Ecommerce_Ananlysis_PowerBi_Project/blob/062b1ab0f8b2495d5720d318c02ca66d78c9163e/Amazon%20dashboard.PNG)
+
+
+
+
